@@ -1,8 +1,9 @@
-keys.py
+*.pdf
 *.tex
-cache/*
-data/*
-images/*
+article/cache/*
+article/data/*
+article/images/*
+article/keys.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
