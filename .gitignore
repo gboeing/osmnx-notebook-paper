@@ -4,6 +4,7 @@ article/cache/*
 article/data/*
 article/images/*
 article/keys.py
+submission/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
